@@ -28,10 +28,7 @@ AskMyDoc-AI is an advanced GenAI application that allows users to intelligently 
 5. **RAG Pipeline**: Uses LangChain + Cohere to generate LLM answers
 6. **Interactive UI**: User inputs queries and receives real-time responses
 
-## 🚀 Setup Instructions
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/ShaikhUmarFarooq/AskMyDoc-AI.git
-cd AskMyDoc-AI
+ https://github.com/ShaikhUmarFarooq/AskMyDoc-AI.git
+AskMyDoc-AI
